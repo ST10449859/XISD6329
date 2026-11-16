@@ -1,0 +1,24 @@
+# Android Studio / Gradle
+AndroidApp/.gradle/
+AndroidApp/.kotlin/
+AndroidApp/.idea/
+AndroidApp/build/
+AndroidApp/**/build/
+AndroidApp/local.properties
+*.iml
+
+# Website configuration and secrets
+Website/config.php
+Website/.env
+Website/.env.*
+
+# General
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Website API configuration and secrets
+Website/api/config.php
+
+# Android release build files
+AndroidApp/app/release/
