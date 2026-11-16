@@ -268,5 +268,12 @@ FightClubSA demonstrates the development of a booking and membership management 
 The project provided practical experience in PHP, MySQL, Kotlin, Android Studio, API development, software testing and version control.
 The combination of a website and a standalone Android application provides different ways for users to access the system while maintaining a shared backend and database architecture.
 Overall, FightClubSA establishes a foundation for improving fitness-club administration, member accessibility and the management of important gym activities.
+Video Demonstration:
+Website:
+https://youtu.be/-VxqGD4H1Fw 
+<img width="543" height="80" alt="image" src="https://github.com/user-attachments/assets/6d5f119a-d1cb-4f44-8ccd-7861c1f42620" />
+
+App:
+https://youtube.com/shorts/Y8RWHjm5ReM?feature=share 
 
 
